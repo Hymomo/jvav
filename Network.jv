@@ -1,0 +1,35 @@
+type = jv
+use jvav
+use int
+<"code":"UTF-8"><"Run":"Mia">
+    Code jvav(0;no return;no Aa):
+    RunList:[{"Jvav"},{"Jvr"}];
+    RunList:[{"Jvav"},{"Jv"}];
+    RunList:[{"Jvav"},{"Jvav"}];
+    TextList:[{"Jvav"},{"Jtxt","txt","jtxt"}]
+    for Asca 0
+jvav[command:0]
+Cre[import.Aa]:use.system.out.Inv.dest
+Cre[Use.Aa]:use.system.out.Inv.api>goss>html>c++hp>js>java>c>PythonC>jvavhp
+Cre[Cre.Aa]:use.system.out.highQd.create.Qdobject.NoCodes
+Cre[{usersCre}.Aa[<userInput--NoCode>]]:internet.send.http.pag:[{Input}:{Send[{sendjdk:*\\download\apis}]:http:\\jdk.jvav.net\api\usercreatedata\{username}\object\}],if{NoVs=0/None}:CreateNewVsFile{username},send{it}
+Cre[Send,Aa]:use.Internet.send<http/ucl>
+
+for example:{
+<input>:Use.Inputapi
+<print[space]{input}>:display{imputdata}
+<then[space]InputAfter{if,for,as,{jdk.ios}}
+<then[space]InputAfter{if,for,as,{jdk.andr}}
+<then[space]InputAfter{if,for,as,{jdk.win}}
+<then[space]InputAfter{if,for,as,{jdk.unix}}
+<send{httpURL}>:send{HttpInput{it}}
+<import[space]{Input}>:run/if{it}={line9},{codename};download{line9it}:{https},else:
+<<*{}=[]*>>
+<<*''=""*>>
+<<*==as*>>
+<<**=#<?code/>*>>
+if user{click}:{downloadJDK};if {internet}=true{bool};sendjdk{Need};
+}
+{{vision}:{jvav1-update11};
+<"code":"Jvr">
+}
