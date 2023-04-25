@@ -11,4 +11,4 @@
 ，help
 ，just is help, really. ;)
 ，end, and if you want to join me(Yeah, just me, I'm lonely...), you can send messages to me: miaomiao_159@outlook.com / 3541766758@qq.com
-，thanks everyone my English is not good
+，thanks everyone and my English is not good
